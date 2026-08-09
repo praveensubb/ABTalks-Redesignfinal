@@ -1,16 +1,152 @@
-# React + Vite
+# ABTalks Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ABTalks Redesign is a full-stack web application built for the 60-Day Coding Challenge. It enables students to register, participate in daily coding challenges, track their progress, and earn certificates. Administrators can manage students, monitor submissions, and view analytics.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Frontend:
+https://abtalks-redesignfinal.netlify.app
 
-## React Compiler
+Backend API:
+https://abtalks-redesignfinal.onrender.com/docs
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+GitHub Repository:
+https://github.com/praveensubb/ABTalks-Redesignfinal
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+### Student
+- Student Registration
+- Student Login
+- Dashboard
+- Daily Coding Challenge
+- Profile
+- Change Password
+- Forgot Password
+- Certificate Generation
+- Leaderboard
+
+### Admin
+- Admin Login
+- View Registered Students
+- Search Students
+- Edit Student Details
+- Delete Student
+- Reset Student Progress
+- View Challenge Submissions
+- Analytics Dashboard
+
+---
+
+## Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- React Router
+- Tailwind CSS
+
+### Backend
+- FastAPI
+- SQLAlchemy
+- SQLite
+- Pydantic
+
+### Deployment
+- Frontend: Netlify
+- Backend: Render
+
+---
+
+## Project Structure
+
+```
+ABTalks-Redesignfinal
+│
+├── abtalks-redesign
+│   ├── src
+│   ├── public
+│   └── package.json
+│
+├── backend
+│   ├── routes
+│   ├── models.py
+│   ├── schemas.py
+│   ├── database.py
+│   └── app.py
+│
+└── PROMPTS.md
+```
+
+---
+
+## Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/praveensubb/ABTalks-Redesignfinal.git
+```
+
+### Frontend
+
+```bash
+cd abtalks-redesign
+npm install
+npm run dev
+```
+
+### Backend
+
+```bash
+cd backend
+
+python -m venv venv
+
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+uvicorn app:app --reload
+```
+
+---
+
+## API Documentation
+
+After running the backend:
+
+```
+http://127.0.0.1:8000/docs
+```
+
+Production:
+
+```
+https://abtalks-redesignfinal.onrender.com/docs
+```
+
+---
+
+## AI Usage
+
+This project was developed with AI assistance for:
+
+- React component development
+- FastAPI backend implementation
+- Database integration
+- Authentication
+- API development
+- Deployment
+- Debugging
+- UI improvements
+
+The detailed AI interaction log is available in **PROMPTS.md**.
+
+---
+
+## License
+
+This project was created for educational and hackathon purposes.
