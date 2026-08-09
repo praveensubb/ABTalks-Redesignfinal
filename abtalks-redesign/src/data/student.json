@@ -1,0 +1,28 @@
+{
+  "student": {
+    "name": "Praveen",
+    "college": "East Point College of Engineering",
+    "track": "Frontend Development",
+    "streak": 12,
+    "completedDays": 12,
+    "totalDays": 60,
+    "rank": 82,
+    "todayTask": "Build a Responsive Login Page",
+    "progress": 20,
+    "motivationalMessage": "You're only 3 days away from entering the Top 50 leaderboard!",
+    "linkedin": "https://www.linkedin.com/in/praveen-s-34b4122a5",
+    "missedYesterday": false,
+    "lastSubmittedDay": 0
+  },
+
+  "achievements": [
+    "🔥 7-Day Streak",
+    "💻 First Project",
+    "📢 LinkedIn Starter"
+  ],
+
+  "leaderboard": {
+    "students": 10000,
+    "topPercent": 5
+  }
+}

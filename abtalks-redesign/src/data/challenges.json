@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "title": "HTML Portfolio",
+    "difficulty": "Easy",
+    "duration": "1 Hour",
+    "description": "Create a personal portfolio using HTML.",
+    "resources": [
+      {
+        "title": "HTML Documentation",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "CSS Landing Page",
+    "difficulty": "Easy",
+    "duration": "2 Hours",
+    "description": "Build a responsive landing page using CSS Flexbox.",
+    "resources": [
+      {
+        "title": "CSS Flexbox Guide",
+        "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Responsive Login Page",
+    "difficulty": "Medium",
+    "duration": "2 Hours",
+    "description": "Build a responsive login page using HTML, CSS and Tailwind CSS.",
+    "resources": [
+      {
+        "title": "Tailwind CSS",
+        "url": "https://tailwindcss.com/docs"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "JavaScript Calculator",
+    "difficulty": "Medium",
+    "duration": "2 Hours",
+    "description": "Build a calculator using HTML, CSS and JavaScript.",
+    "resources": [
+      {
+        "title": "JavaScript Guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "React Todo App",
+    "difficulty": "Medium",
+    "duration": "3 Hours",
+    "description": "Create a Todo application using React Hooks.",
+    "resources": [
+      {
+        "title": "React Documentation",
+        "url": "https://react.dev"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "JavaScript Stopwatch",
+    "difficulty": "Medium",
+    "duration": "2 Hours",
+    "description": "Build a stopwatch using JavaScript.",
+    "resources": [
+      {
+        "title": "JavaScript Timers",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/setInterval"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Digital Clock",
+    "difficulty": "Easy",
+    "duration": "2 Hours",
+    "description": "Create a live digital clock using JavaScript.",
+    "resources": [
+      {
+        "title": "JavaScript Date",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "BMI Calculator",
+    "difficulty": "Easy",
+    "duration": "2 Hours",
+    "description": "Build a BMI Calculator using JavaScript.",
+    "resources": [
+      {
+        "title": "JavaScript Basics",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Temperature Converter",
+    "difficulty": "Easy",
+    "duration": "2 Hours",
+    "description": "Create a Celsius to Fahrenheit converter.",
+    "resources": [
+      {
+        "title": "JavaScript Numbers",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Responsive Navbar",
+    "difficulty": "Easy",
+    "duration": "2 Hours",
+    "description": "Design a responsive navigation bar.",
+    "resources": [
+      {
+        "title": "CSS Flexbox",
+        "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "JavaScript Quiz App",
+    "difficulty": "Medium",
+    "duration": "2 Hours",
+    "description": "Build a Quiz Application using JavaScript.",
+    "resources": [
+      {
+        "title": "JavaScript Events",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Event"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Weather App",
+    "difficulty": "Medium",
+    "duration": "3 Hours",
+    "description": "Build a Weather App using Fetch API.",
+    "resources": [
+      {
+        "title": "Fetch API",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Notes App",
+    "difficulty": "Medium",
+    "duration": "2 Hours",
+    "description": "Build a Notes App with Local Storage.",
+    "resources": [
+      {
+        "title": "Local Storage",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Expense Tracker",
+    "difficulty": "Medium",
+    "duration": "3 Hours",
+    "description": "Build an Expense Tracker.",
+    "resources": [
+      {
+        "title": "JavaScript Arrays",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Image Slider",
+    "difficulty": "Medium",
+    "duration": "2 Hours",
+    "description": "Create an automatic image slider.",
+    "resources": [
+      {
+        "title": "DOM Manipulation",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "React Counter",
+    "difficulty": "Easy",
+    "duration": "1 Hour",
+    "description": "Build a React Counter using useState.",
+    "resources": [
+      {
+        "title": "React useState",
+        "url": "https://react.dev/reference/react/useState"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "React Calculator",
+    "difficulty": "Medium",
+    "duration": "3 Hours",
+    "description": "Create a Calculator using React.",
+    "resources": [
+      {
+        "title": "React Documentation",
+        "url": "https://react.dev"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "React Login Form",
+    "difficulty": "Medium",
+    "duration": "2 Hours",
+    "description": "Create a Login Form with Validation.",
+    "resources": [
+      {
+        "title": "React Forms",
+        "url": "https://react.dev/reference/react-dom/components/input"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "React Weather App",
+    "difficulty": "Hard",
+    "duration": "4 Hours",
+    "description": "Build a Weather App using React and Fetch API.",
+    "resources": [
+      {
+        "title": "Fetch API",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "React Portfolio",
+    "difficulty": "Hard",
+    "duration": "4 Hours",
+    "description": "Build a complete Portfolio Website using React.",
+    "resources": [
+      {
+        "title": "React Documentation",
+        "url": "https://react.dev"
+      }
+    ]
+  },
+{
+  "id": 21,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 21,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 22,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 23,
+  "title": "React Router Basics",
+  "difficulty": "Hard",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 24,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 25,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 26,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 27,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 28,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 29,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 30,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 31,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 32,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 33,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 34,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 35,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 36,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 37,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 38,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 39,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 40,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 41,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 42,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 43,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 44,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 45,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 46,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 47,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 48,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 49,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 50,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 51,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 52,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 53,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 54,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 55,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 56,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 57,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 58,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 59,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+},
+{
+  "id": 60,
+  "title": "React Router Basics",
+  "difficulty": "Medium",
+  "duration": "2 Hours",
+  "description": "Build a React application with multiple pages using React Router.",
+  "resources": [
+    {
+      "title": "React Router",
+      "url": "https://reactrouter.com"
+    }
+  ]
+}
+]
+
+
+
+
+
