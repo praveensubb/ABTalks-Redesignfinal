@@ -287,3 +287,19 @@ export async function forgotPassword(email, newPassword) {
 
   return data;
 }
+// =======================================
+// Admin Dashboard
+// =======================================
+export async function getAdminDashboard(search = "") {
+  const response = await fetch(
+    `${API_URL}/admin/dashboard?search=${encodeURIComponent(search)}`
+  );
+
+  const data = await response.json();
+
+  if (!response.ok) {
+    throw new Error(data.detail || "Unable to load dashboard");
+  }
+
+  return data;
+}

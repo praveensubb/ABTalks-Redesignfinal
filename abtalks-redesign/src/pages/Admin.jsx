@@ -1,11 +1,12 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import {
+  getAdminDashboard,
   deleteStudent,
   resetStudentProgress,
 } from "../services/api";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://abtalks-redesignfinal.onrender.com";
 
 function Admin() {
   const [data, setData] = useState(null);
@@ -16,17 +17,14 @@ function Admin() {
   }, []);
 
   async function loadDashboard(searchText = "") {
-    try {
-      const response = await fetch(
-        `${API_URL}/admin/dashboard?search=${searchText}`
-      );
-
-      const result = await response.json();
-      setData(result);
-    } catch (error) {
-      console.error(error);
-    }
+  try {
+    const result = await getAdminDashboard(searchText);
+    setData(result);
+  } catch (error) {
+    console.error(error);
+    alert(error.message);
   }
+}
 
   async function handleDelete(id) {
     const confirmDelete = window.confirm(
