@@ -17,13 +17,11 @@ from routes.admin_auth import router as admin_auth_router
 # ----------------------------------
 # Create Database Tables
 # ----------------------------------
-
 Base.metadata.create_all(bind=engine)
 
 # ----------------------------------
 # Create FastAPI App
 # ----------------------------------
-
 app = FastAPI(
     title="ABTalks Backend API",
     description="Backend API for ABTalks 60-Day Coding Challenge",
@@ -33,9 +31,10 @@ app = FastAPI(
 # ----------------------------------
 # CORS Configuration
 # ----------------------------------
-
 origins = [
     "http://localhost:5173",
+    "http://127.0.0.1:5173",
+    "https://abtalks-redesignfinal.netlify.app",
 ]
 
 app.add_middleware(
@@ -49,7 +48,6 @@ app.add_middleware(
 # ----------------------------------
 # Register Routes
 # ----------------------------------
-
 app.include_router(auth_router)
 app.include_router(challenge_router)
 app.include_router(student_router)
@@ -61,7 +59,6 @@ app.include_router(admin_auth_router)
 # ----------------------------------
 # Home Route
 # ----------------------------------
-
 @app.get("/")
 def home():
     return {
@@ -72,7 +69,6 @@ def home():
 # ----------------------------------
 # Health Check
 # ----------------------------------
-
 @app.get("/health")
 def health():
     return {
@@ -83,7 +79,6 @@ def health():
 # ----------------------------------
 # API Information
 # ----------------------------------
-
 @app.get("/api")
 def api_info():
     return {
